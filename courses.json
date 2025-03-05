@@ -1,0 +1,37 @@
+{
+    "name": "Jamaica Patac",
+    "university": "USTP CDO",
+    "subjects": [
+    {
+        "year": "1st Year",
+        "semester": "1st Semester",
+        "courses": ["Civic Welfare Training Service 1", "Introduction to Computing", "Computer Programing 1","Purposive Communication","Readings in Philippine History","The Contemporary World","Mathematics in the Modern World","Movement Enhancement"]
+    },
+    {
+        "year": "1st Year",
+        "semester": "2nd Semester",
+        "courses": ["Civic Welfare Training Service 2", "Science, Technology and Society", "Computer Programing 2","Data Structures and Algorithms","Discrete Mathematics","Art Appreciation","Understanding the Self","Fitness Activity and Exercises"]
+    },
+    {
+        "year": "2nd Year",
+        "semester": "1st Semester",
+        "courses": ["Intro to Human Computer Interaction", "Fundamentals of Database Systems", "Platform Technologies","Object Oriented Programming","Accounting Principles","Physical Activity Towards Health and Fitness 1","Environmental Science"]
+    },
+    {
+        "year": "2nd Year",
+        "semester": "2nd Semester",
+        "courses": ["Information Management", "Networking 1", "Web Systems and Technolgies","Systems Integration and Architecture","Ethics","Life and Works of Rizal","Physical Activity Towards Health and Fitness 2"]
+    },
+    {
+        "year": "3rd Year",
+        "semester": "1st Semester",
+        "courses": ["Information Assurance and Security", "Networking 2", "Mobile Programming","Software Engineering","IT Elective 1","Technopreneurship"]
+    },
+    {
+        "year": "3rd Year",
+        "semester": "2nd Semester",
+        "courses": ["CAPSTONE Project and Research 1", "Integrative Programming and Technologies ", "Applications Development and Emerging Technologies","Quantitative Methods","Philippine Indigenous Communities and Peace Education ","Foreign Language","IT Elective 2"]
+    }
+    ]
+}
+  
